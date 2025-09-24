@@ -1,0 +1,22 @@
+players:
+  - name: "Joshua"
+    alien_skill: "Telekinesis"
+    mundane_skills: ["Lockpicking", "Stealth"]
+    primary_goal: "Steal the artifact"
+    secondary_goal: "Avoid detection"
+    tertiary_goal: "Help the Homeward faction"
+    faction: "Homeward"
+    
+    
+    
+    
+    
+    
+    
+  - name: "Jonathan"
+    alien_skill: "Shape-shifting"
+    mundane_skills: ["Persuasion", "Driving"]
+    primary_goal: "Deliver the package"
+    secondary_goal: "Gather intelligence"
+    tertiary_goal: "Promote Earthbound interests"
+    faction: "Earthbound"
